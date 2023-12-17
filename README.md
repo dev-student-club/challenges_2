@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Cukup Kerjakan yang ada pada folder `lib/`, jika merasa kode yang dikerjakan dengan benar bisa coba jalankan unit testnya di folder `test/`, perhatikan semua aturan yang ada pada file-file tersebut
+
